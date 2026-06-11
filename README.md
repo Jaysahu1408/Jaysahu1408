@@ -1,71 +1,76 @@
-# Replace the placeholders below with your own information before publishing.
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=YOUR%20NAME&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Product%20Builder&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,50:7C3AED,100:A855F7&text=Jaykumar%20Sahu&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Enthusiast&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Senior+Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Product+Developer;Building+Scalable+Enterprise+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI+Enthusiast;MERN+Stack+Developer;Building+Scalable+Web+Applications;Exploring+Artificial+Intelligence+%26+LLMs"/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Specialization-A855F7?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<br>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-</p>
-
-<p align="center">
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="mailto:shahujay07y@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/yourusername">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:yourmail@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=7C3AED"/>
-<img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=A855F7&label=Followers"/>
-<img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=4F46E5&label=Stars"/>
-</p>
+<a href="https://linkedin.com/in/jaykumar-sahu">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jaykumar-sahu">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=jaykumar-sahu&style=for-the-badge&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/followers/jaykumar-sahu?style=for-the-badge&color=A855F7&label=Followers"/>
+
+<img src="https://img.shields.io/github/stars/jaykumar-sahu?style=for-the-badge&color=4F46E5&label=Stars"/>
 
 </div>
 
 ---
 
-# About
+# About Me
 
-Software Engineer focused on designing, building, and scaling modern software platforms that solve real business problems. My expertise spans **Full Stack Engineering**, **Artificial Intelligence**, **Machine Learning**, **Cloud Infrastructure**, and **Product Development**.
+I'm **Jaykumar Sahu**, a Full Stack Developer and AI Enthusiast currently pursuing a **Bachelor of Computer Applications (BCA)** at **Manipal University Jaipur**.
 
-I enjoy transforming complex requirements into reliable, secure, and maintainable systems while maintaining a strong product engineering mindset. My work combines software craftsmanship, system design, automation, and AI-driven innovation to deliver measurable impact.
+My focus lies in building scalable web applications, designing efficient backend systems, optimizing databases, and exploring Artificial Intelligence technologies.
 
-### Core Areas
+I enjoy transforming ideas into real-world products through clean architecture, modern development practices, and continuous learning.
 
-- Enterprise Software Engineering
-- Artificial Intelligence & Machine Learning
+### What I Do
+
 - Full Stack Web Development
-- Distributed Systems & APIs
-- Cloud Native Architecture
-- DevOps & Platform Engineering
-- Data Engineering & Analytics
-- Open Source Development
+- Backend Engineering
+- REST API Development
+- Database Design & Optimization
+- Artificial Intelligence & LLM Integration
+- Software Engineering
+- Open Source Learning
 
-### Open To
+### Currently Exploring
 
-- Senior Software Engineering Roles
-- AI/ML Engineering Opportunities
-- Product Engineering Teams
-- Open Source Collaborations
-- Technical Consulting
-- Startup Advisory & Innovation Projects
+- Generative AI
+- Large Language Models (LLMs)
+- Cloud Technologies
+- System Design
+- Scalable Backend Architectures
+
+---
+
+# Engineering Dashboard
+
+| Domain | Expertise |
+|----------|----------|
+| Full Stack Development | ██████████ |
+| MERN Stack | ██████████ |
+| Backend Engineering | ██████████ |
+| Database Design | █████████ |
+| AI Development | █████████ |
+| API Development | █████████ |
+| System Design | ████████ |
+| Cloud Computing | ███████ |
+| DevOps Fundamentals | ██████ |
 
 ---
 
@@ -74,25 +79,31 @@ I enjoy transforming complex requirements into reliable, secure, and maintainabl
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c,go,rust,kotlin,php"/>
+<img src="https://skillicons.dev/icons?i=python,javascript"/>
 </p>
 
-### Frontend
+### Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,redux,tailwind,bootstrap,html,css,sass"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
 </p>
 
-### Backend & Databases
+### Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,fastapi,postgres,mysql,mongodb,redis,firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-### Cloud, DevOps & Tooling
+### Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,linux,nginx"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
+
+### AI & Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
@@ -101,91 +112,101 @@ I enjoy transforming complex requirements into reliable, secure, and maintainabl
 
 | Domain | Proficiency | Details |
 |----------|----------|----------|
-| Machine Learning | Advanced | Supervised, Unsupervised & Ensemble Learning |
-| Deep Learning | Advanced | CNNs, RNNs, Transformers |
-| Generative AI | Advanced | LLM Applications, RAG Systems, AI Agents |
-| NLP | Advanced | Semantic Search, Embeddings, Text Analytics |
-| Computer Vision | Intermediate | Detection, Segmentation, Classification |
-| MLOps | Advanced | CI/CD for Models, Monitoring, Deployment |
-| Data Engineering | Advanced | ETL Pipelines, Data Warehousing |
-| AI Product Development | Advanced | Production-grade AI Platforms |
+| AI Development | Intermediate | AI-powered Applications |
+| LLM Integration | Intermediate | Prompt Engineering & APIs |
+| Python Programming | Advanced | Automation & Backend Logic |
+| Data Processing | Intermediate | Data Handling & Analysis |
+| AI Foundations | Advanced | Oracle AI Foundations Certified |
+| Prompt Engineering | Intermediate | LLM Workflow Optimization |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>AI Enterprise Knowledge Platform</b></summary>
+<summary><b>📦 Inventory Management System</b></summary>
 
 ### Overview
 
-Enterprise Retrieval-Augmented Generation platform enabling organizations to securely search, analyze, and interact with internal knowledge repositories.
+A data-driven inventory platform developed to automate stock management and improve inventory tracking efficiency.
 
 | Category | Details |
 |----------|----------|
-| Stack | Python, FastAPI, LangChain, PostgreSQL, Redis, AWS |
-| Scale | Millions of indexed documents |
-| Performance | Sub-second retrieval latency |
-| Security | RBAC, Encryption, Audit Logging |
-| Impact | Improved enterprise knowledge discovery |
-| Repository | https://github.com/yourusername/project-name |
+| Stack | React, Node.js, Express.js, MongoDB |
+| Scale | Multi-user Inventory Tracking |
+| Performance | Optimized Query Execution |
+| Security | Secure CRUD Operations |
+| Impact | Improved Stock Visibility |
+| Repository | Add Repository Link |
 
-### Highlights
+### Business Problem
 
-- Built scalable RAG architecture
-- Integrated vector search and semantic retrieval
-- Automated ingestion pipelines
-- Production-grade observability and monitoring
+Manual inventory management often leads to stock inconsistencies and inefficient tracking.
+
+### Solution
+
+Developed a centralized inventory system capable of handling stock lifecycle management and real-time inventory updates.
+
+### Key Contributions
+
+- Led project development team
+- Designed MongoDB architecture
+- Implemented optimized querying logic
+- Built backend tracking workflows
+- Reduced retrieval latency
+
+### Technologies
+
+```txt
+React.js
+Node.js
+Express.js
+MongoDB
+```
 
 </details>
 
 <details>
-<summary><b>Cloud Native E-Commerce Platform</b></summary>
+<summary><b>🍔 FoodieDash – MERN Full Stack Application</b></summary>
 
 ### Overview
 
-Modern microservices-based commerce ecosystem designed for high availability and scalability.
+A complete MERN-based web platform featuring secure authentication, dynamic asset management, and REST APIs.
 
 | Category | Details |
 |----------|----------|
-| Stack | React, Node.js, Kubernetes, PostgreSQL |
-| Scale | High-volume transaction processing |
-| Performance | Auto-scaled infrastructure |
-| Security | OAuth2, JWT, WAF |
-| Impact | Enhanced customer acquisition |
-| Repository | https://github.com/yourusername/project-name |
+| Stack | MERN Stack |
+| Scale | Multi-user Platform |
+| Performance | Optimized State Management |
+| Security | Authentication & Authorization |
+| Impact | Improved User Experience |
+| Repository | Add Repository Link |
 
-### Highlights
+### Business Problem
 
-- Event-driven architecture
-- Distributed service communication
-- CI/CD automation
-- Cloud-native deployment workflows
+Modern web applications require secure authentication and efficient data handling.
 
-</details>
+### Solution
 
-<details>
-<summary><b>AI-Powered Analytics Suite</b></summary>
+Developed a production-style web application with scalable architecture and optimized frontend-backend communication.
 
-### Overview
+### Key Features
 
-Advanced analytics platform providing predictive insights, forecasting, and executive dashboards.
+- Authentication System
+- REST APIs
+- Dynamic Content Management
+- Responsive Design
+- Optimized Data Flow
 
-| Category | Details |
-|----------|----------|
-| Stack | Python, TensorFlow, React, AWS |
-| Scale | Multi-source data processing |
-| Performance | Real-time reporting |
-| Security | Enterprise-grade controls |
-| Impact | Data-driven decision making |
-| Repository | https://github.com/yourusername/project-name |
+### Technologies
 
-### Highlights
-
-- Forecasting pipelines
-- Predictive modeling
-- Interactive dashboards
-- Automated reporting workflows
+```txt
+React.js
+Node.js
+Express.js
+MongoDB
+Tailwind CSS
+```
 
 </details>
 
@@ -193,44 +214,58 @@ Advanced analytics platform providing predictive insights, forecasting, and exec
 
 # Experience
 
-## Senior Software Engineer | Company Name
+## Web Development Intern
+### Infotact Solutions
 
-**Jan 2024 – Present**
+**February 2026 – May 2026**
 
-Leading the design and development of scalable enterprise applications, cloud infrastructure, and AI-driven solutions.
+Worked on backend development, database optimization, and scalable web application modules while collaborating within a remote engineering team.
 
 ### Responsibilities
 
-- Architected cloud-native systems
-- Led platform modernization initiatives
-- Developed high-performance APIs
-- Mentored engineering teams
-- Improved deployment automation
-- Enhanced platform reliability
+- Developed server-side business logic
+- Optimized MongoDB queries
+- Collaborated with engineering teams
+- Built hospitality and retail platform modules
+- Completed technical evaluations successfully
 
-### Skills
+### Skills Applied
 
-`System Design` `Cloud Architecture` `AI/ML` `DevOps` `Leadership`
+`Node.js` `MongoDB` `JavaScript` `Backend Development` `REST APIs`
 
 ---
 
-## Software Engineer | Company Name
+# Education
 
-**Jun 2021 – Dec 2023**
+## Bachelor of Computer Applications (BCA)
 
-Built and maintained production-grade applications supporting business-critical operations.
+**Manipal University Jaipur**
 
-### Responsibilities
+2023 – 2026
 
-- Full stack application development
-- API design and implementation
-- Database optimization
-- CI/CD automation
-- Security hardening
+### Focus Areas
 
-### Skills
+- Software Engineering
+- Database Systems
+- Web Development
+- Artificial Intelligence
+- Data Structures & Algorithms
 
-`Java` `Spring Boot` `React` `PostgreSQL` `Docker`
+---
+
+# Certifications
+
+### Oracle
+
+<img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-2025%20AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+### Mimo
+
+<img src="https://img.shields.io/badge/Python%20AI%20Development-Certified-7C3AED?style=for-the-badge"/>
+
+### ADCA
+
+<img src="https://img.shields.io/badge/ADCA-A%2B%20Grade-success?style=for-the-badge"/>
 
 ---
 
@@ -240,67 +275,38 @@ Built and maintained production-grade applications supporting business-critical 
 
 | Recognition | Details |
 |------------|------------|
-| Engineering Excellence | Delivered large-scale production systems |
-| Open Source Contributor | Active contributor across multiple repositories |
-| AI Innovation | Developed enterprise AI solutions |
-| Technical Leadership | Mentored engineers and led initiatives |
-| Cloud Expertise | Designed scalable cloud-native platforms |
-| Product Impact | Built systems driving measurable business value |
+| Team Leadership | Led Full Stack Project Teams |
+| AI Learning | Certified in AI Development |
+| Software Engineering | Built Real-World Systems |
+| Internship Experience | Industry Exposure |
+| Database Optimization | Performance Improvement |
+| Full Stack Expertise | MERN Development |
 
 </div>
 
 ---
 
-# Certifications
-
-### AWS
-
-<p>
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-### Oracle
-
-<p>
-<img src="https://img.shields.io/badge/Oracle-Java%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-### NPTEL
-
-<p>
-<img src="https://img.shields.io/badge/NPTEL-Elite%20Certified-7C3AED?style=for-the-badge"/>
-</p>
-
-### Cisco
-
-<p>
-<img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
-
----
-
 # Coding Profiles
 
-<p align="center">
+<div align="center">
 
-<a href="https://leetcode.com/yourusername">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/yourusername">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<a href="#">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/yourusername">
-<img src="https://img.shields.io/badge/HackerRank-Competitive%20Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/yourusername">
-<img src="https://img.shields.io/badge/CodeChef-Programming%20Profile-5B4638?style=for-the-badge"/>
+<a href="#">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -308,11 +314,17 @@ Built and maintained production-grade applications supporting business-critical 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaykumar-sahu&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaykumar-sahu&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykumar-sahu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -322,7 +334,7 @@ Built and maintained production-grade applications supporting business-critical 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jaykumar-sahu&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -332,7 +344,7 @@ Built and maintained production-grade applications supporting business-critical 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaykumar-sahu&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
@@ -342,7 +354,7 @@ Built and maintained production-grade applications supporting business-critical 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/jaykumar-sahu/jaykumar-sahu/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -352,48 +364,62 @@ Built and maintained production-grade applications supporting business-critical 
 
 ```yaml
 learning:
-  - Advanced System Design
-  - Distributed Architectures
+  - Generative AI
   - Large Language Models
-  - MLOps
+  - Advanced Backend Systems
+  - Cloud Computing
 
 building:
-  - Enterprise AI Platforms
-  - Cloud Native Applications
-  - Developer Productivity Tools
+  - MERN Applications
+  - AI Powered Projects
+  - Portfolio Projects
 
 exploring:
-  - Agentic AI Systems
-  - Multi-Agent Frameworks
-  - AI Infrastructure
+  - Open Source
+  - AI Agents
+  - Backend Architecture
 
 open_to:
-  - Software Engineering Opportunities
-  - AI/ML Engineering Roles
-  - Technical Consulting
-  - Open Source Collaborations
+  - Software Engineering Roles
+  - Full Stack Opportunities
+  - AI Engineering Internships
+  - Open Source Collaboration
 ```
 
 ---
 
-# Connect
+# Why Work With Me
+
+✔ Strong MERN Stack Foundation
+
+✔ Practical Industry Experience
+
+✔ AI Development Knowledge
+
+✔ Database Optimization Skills
+
+✔ Team Leadership Experience
+
+✔ Product-Oriented Development Approach
+
+✔ Continuous Learning Mindset
+
+---
+
+# Connect With Me
 
 <div align="center">
 
-<a href="mailto:yourmail@example.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:shahujay07y@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourusername">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/jaykumar-sahu">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/jaykumar-sahu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -402,8 +428,8 @@ open_to:
 
 <div align="center">
 
-*"Engineering scalable systems today while building intelligent products for tomorrow."*
+### Building scalable software today while preparing for the intelligent systems of tomorrow.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,50:7C3AED,100:A855F7"/>
