@@ -1,11 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=wave&color=9061F9&height=220&section=header&text=Jaykumar%20Sahu&fontSize=56&fontColor=ffffff" alt="Header Banner" />
+  
+  <!-- Premium Modern Minimal Header Block -->
+  <br />
+  <h1><code> Jaykumar Sahu </code></h1>
+  <p>🚀 Welcome to my premium enterprise engineering workspace</p>
   
   <br />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9061F9&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Expert;AI+Enthusiast;Product+Engineer" alt="Typing SVG" />
 
-  <br />
+  <br /><br />
 
   [![Degree](https://img.shields.io/badge/BCA-Manipal%20University%20Jaipur-6366F1?style=flat-square&logo=education)]()
   [![Location](https://img.shields.io/badge/Location-Kalyan%2C%20Maharashtra-8B5CF6?style=flat-square&logo=googlemaps)]()
@@ -14,7 +18,7 @@
   [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:shahujay07y@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/Jaysahu1408)
 
-  <br />
+  <br /><br />
 
   ![](https://komarev.com/ghpvc/?username=Jaysahu1408&color=7C3AED&style=flat-square&label=PROFILE+VIEWS)
   [![Followers](https://img.shields.io/github/followers/Jaysahu1408?label=Followers&style=social)](https://github.com/Jaysahu1408)
