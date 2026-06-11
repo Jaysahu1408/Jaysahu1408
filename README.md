@@ -1,5 +1,6 @@
 <div align="center">
   
+  <!-- Premium Modern Minimal Header Block -->
   <br />
   <h1><code> Jaykumar Sahu </code></h1>
   <p>🚀 Welcome to my premium enterprise engineering workspace</p>
@@ -134,14 +135,16 @@ A clean, production-grade frontend clone of the Netflix India landing applicatio
 ## 05. Experience
 
 ### 👨‍💻 Frontend Engineering Intern • hellobooks.ai
-**January 2026 — Present** * Architected modular interface flows for an AI-powered accounting software platform specifically optimized for educational institutions.
-* Designed highly polished, responsive component mockups and interactive user dashboards translating complex data arrays into minimal layouts.
-* Authored clean, maintainable frontend structures ensuring high scannability for financial administrators.
+**January 2026 — Present**
+*   Architected modular interface flows for an AI-powered accounting software platform specifically optimized for educational institutions.
+*   Designed highly polished, responsive component mockups and interactive user dashboards translating complex data arrays into minimal layouts.
+*   Authored clean, maintainable frontend structures ensuring high scannability for financial administrators.
 
 ### 🛠️ Software Engineering Intern • Infotact Solutions
-**March 2026 — Present** * Contributed to the structural codebase of enterprise hospitality and retail platforms via a structured remote production pipeline.
-* Collaborated on RESTful endpoint wiring, ensuring predictable state integration across large web applications.
-* Participated in agile code reviews, refining component standardizations across active sprints.
+**March 2026 — Present**
+*   Contributed to the structural codebase of enterprise hospitality and retail platforms via a structured remote production pipeline.
+*   Collaborated on RESTful endpoint wiring, ensuring predictable state integration across large web applications.
+*   Participated in agile code reviews, refining component standardizations across active sprints.
 
 ---
 
@@ -157,13 +160,13 @@ A clean, production-grade frontend clone of the Netflix India landing applicatio
 ## 07. Certifications
 
 ### 🏷️ Oracle
-* [![Oracle](https://img.shields.io/badge/Oracle-OCI_2025_AI_Foundations_Associate-F80000?style=flat-square&logo=oracle&logoColor=white)](#)
+*   [![Oracle](https://img.shields.io/badge/Oracle-OCI_2025_AI_Foundations_Associate-F80000?style=flat-square&logo=oracle&logoColor=white)](#)
 
 ### 🏷️ Cisco
-* [![Cisco](https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](#)
+*   [![Cisco](https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](#)
 
 ### 🏷️ NPTEL / Academic Extensions
-* [![NPTEL](https://img.shields.io/badge/NPTEL-Data_Structures_and_Algorithms-7C3AED?style=flat-square)](#)
+*   [![NPTEL](https://img.shields.io/badge/NPTEL-Data_Structures_and_Algorithms-7C3AED?style=flat-square)](#)
 
 ---
 
@@ -203,7 +206,7 @@ A clean, production-grade frontend clone of the Netflix India landing applicatio
 ## 10. GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaysahu1408&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jaysahu1408&theme=juicyfresh&column=7&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -219,7 +222,7 @@ A clean, production-grade frontend clone of the Netflix India landing applicatio
 ## 12. Contribution Snake
 
 <div align="center">
-  <img src="https://platane.github.io/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaysahu1408&custom_title=Snake%20Simulation%20Grid&bg_color=0D1117&color=9061F9&line=8B5CF6&area=true&hide_border=false" alt="Snake Alternative Flow" />
 </div>
 
 ---
