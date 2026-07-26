@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,50:7C3AED,100:A855F7&text=Jaykumar%20Sahu&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Enthusiast&descAlignY=55"/>
 
@@ -432,4 +432,4 @@ open_to:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,50:7C3AED,100:A855F7"/> -->
